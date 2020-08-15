@@ -1,11 +1,10 @@
-# MinecraftLightSyns
+# MinecraftLightSync
 
 [![GitHub license](https://img.shields.io/github/license/link1107/MinecraftLightSync)](https://github.com/link1107/MinecraftLightSync)
 
-
 ## Requirements
 
-##### Compiling requirements:
+##### Compile requirements:
 >- JDK 1.8
 >- Gradle
 >- Git/Github (Optional)
@@ -21,6 +20,6 @@
 
 [<img alt="qnbhd" src="https://avatars3.githubusercontent.com/u/66795347?s=460&v=4" width="117">](https://github.com/link1107)[<img alt="TheXaver" src="https://avatars0.githubusercontent.com/u/18555344?s=117&u=2cf5d9e4ad349d7c16b5e59bc0382d98a90860a9" width="117">](https://github.com/TheXaver)
 
-## Licence
+## License
 
 GNU GPLv3
