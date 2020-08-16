@@ -22,7 +22,7 @@
 
 ```sh
 # i.e. using sh
-if git clone https://github.com/link1107/MinecraftLightSync && \
+git clone https://github.com/link1107/MinecraftLightSync && \
     cd MinecraftLightSync && \
     { gradlew build; pip install -r requirements.txt; }
 ```
